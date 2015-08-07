@@ -1,0 +1,786 @@
+Wikipedia Raises $16 Million to Remain Ad-Free
+Calories, fat or carbohydrates? Why diets work (when they do)
+Working hurts less than procrastinating, we fear the twinge of starting
+People will never line up for Android phones
+Fixing XSS on a bank website - A customer's saga
+Rich Hickey stops Clojure funding appeal from 2011 onwards
+Profitable W11 startup looking for hackers. Join us in our quest to kick healthcare's ass.
+Stealing the United States Government by stealing .gov
+Facebook hype will fade
+Princeton Grad Student And 'Brilliant' Programmer, Dies In Apparent Suicide 
+VLC for iOS Pulled from the App Store
+What does one trillion dollars look like?
+Redis memory fragmentation contest
+A Healthy Diet For The Mind
+Latency Compensating Methods in Client/Server Games
+The PhD Problem: "Talk of a ‘higher education bubble’ may not be idle chatter”
+The Python Paradox
+And suddenly, you're hip
+StackOverflow clone, created entirely with Redis and jQuery
+Ie7-js 
+Reddit/HN clone in Clojure
+Obama administration moves forward with unique Internet ID for all Americans
+Steve's story - Google employee #13
+Akin's Laws of Spacecraft Design
+Inequality in Equalland
+Sorry, your “cool” webapp is probably not going to make money
+Learning Advanced JavaScript
+The Trillion Dollar Website (a story of quantitative easing)
+FlightCaster (YC S09) Acquired
+Bayesian stats book banned in China
+Why Caltech Is in a Class by Itself
+Production is Red, Development is Blue
+My winter break project — Silk
+Announcing NoSQL Tapes
+Extruding Ice from Steel Fences and Pipes with Diurnal Freeze/Thaw
+Chrome Release Cycle
+When A Game Designer teaches a College Course: No Grading, just Levelling Up
+Why Chinese Mothers are Not Superior (from a female Chinese engineer)
+Why GIMP is Inadequate
+10 Simple Truths Smart People Forget
+Why So Many Rich People Don’t Feel Very Rich
+There is no place for just shitting all over other people's work
+Google Removing H.264 Support in Chrome
+Scala == Effective Java?
+L-Theanine: a 4,000 Year Old Mind-Hack
+How Pixar Bosses Saved Their Employees from Layoffs
+NYTimes Opensources Their Deep Linking JS
+Simple Questions for Google Regarding Chrome’s Dropping of H.264
+Bitterness, Anger And Betrayal At MySpace
+PS3 Root Key Hacker Sued
+A Localization Horror Story: It Could Happen To You
+For what are the Windows A:\ and B:\ drives used?
+On Not Hiring
+Arbor.js - HTML5 graph visualization library
+10 Questions for John Gruber Regarding H.264, WebM
+Drunk scientists pour wine on superconductors and make an incredible discovery
+Carnegie Mellon CS Professor challenges Sony by mirroring Geohot's PS3 hacks
+Flowchart : Should you work for Free?
+A Comfy Helvetica frontpage for Hacker News
+Why You Can't Hire Great Perl Programmers
+How to write a simple operating system
+Google's dropping H.264 in Chrome is not a step backward for openness.
+“OK, but there are two rules…”
+How to get your startup on Hacker News
+I love async, but I can't code like this
+Spray-on liquid glass is about to revolutionize almost everything
+MIT OpenCourseWare introduces courses designed for independent learners
+US Patent system so dysfunctional you can patent a stick from a tree
+The most mysterious Google ranking ever...
+Why you should never, ever use two spaces after a period
+Reasons to Open a Chinese Bank Account
+Projects: hijack (Hijacking the iPhone earphone jack)
+Things Real People Don't Say About Advertising
+"I think that djb redo will turn out to be the Git of build systems."
+Git Immersion
+Why American Mothers are Superior
+Chromium Blog: More about the Chrome HTML Video Codec Change
+Malware researcher Dancho Danchev gone missing since August
+We need help with the disappearance of Security Researcher Dancho Danchev
+Using Python and heat maps to determine the best place to aim on a dart board
+Garry Tan moving on from Posterous and joining YC
+Fast Levenshtein distance using a Trie
+Top Mistakes in Behavior Change
+Paranoia and deletion: the wipe man page
+Why pi?
+DropQuest 2011
+Roll your own toy UNIX-clone OS
+Why Minecraft Matters
+The Ambiguity of Open and H.264 vs. VP8
+Development and testing of the Stuxnet worm
+Shortchanging Your Business with User-Hostile Platforms
+Watch a swarm of flying robotic drones construct a tiny building
+Facebook Now Shares Phone Number & Address With Third-Party Apps
+The Art of Computer Programming, Volume 4A has been published
+List of JavaScript Game Engines
+What if Tunisia had a revolution, but nobody watched?
+Applications Open For Summer 2011 YC Funding Cycle
+Redirect a running process output to a file and log out
+My Experiences as a Female Software Engineer
+How Much Does a Single Search Cost Google?
+Google Translate adds easter egg that recognizes the beatboxing hack
+Steve Jobs To Take ‘Medical Leave Of Absence’, Stays On As CEO
+How Facebook Ships Code
+I Can Crack Your App With Just A Shell (And How To Stop Me)
+Brisbane floods: before and after
+Web Services Our Startup Relies On Every Day
+Introduction to Gnome 3
+Tarsnap critical security bug
+Apple Reports First Quarter Results
+Everything you need to know about cryptography in 1 hour, by Colin Percival
+Ask HN/PG: Why are comments being paginated?
+Facebook is what happens to the Web when you hit it with the stupid stick
+Introducing AWS Elastic Beanstalk
+Website calculates how your life might be like in another country.
+No double standards: supporting Google's push for WebM 
+Why HN was slow and how Rtm fixed it
+Senator Al Franken: No joke, Comcast trying to whack Netflix
+Sony uses DMCA to silence speech that reveals its security flaws
+The polynomial algorithm for 3-SAT problem (or P=NP)
+DuckDuckGo Challenges Google on Privacy (With a Billboard in San Francisco)
+The miserable programmer paradox
+Twitter Gets Sued For Letting Famous People Interact Online
+What happened to the 11 employees of Microsoft in the 1978 photo
+Impossible for the HN crowd: Do nothing for 2 minutes
+How To Use Amazon EC2 as Your Desktop
+Eric Schmidt: On April 4th I Will Step Down, Larry Page to be CEO
+Apple’s diabolical plan to screw your iPhone
+Ask HN: Do you meditate? How/Why? 
+Learning from Twitter
+Google to Launch Groupon Competitor
+AppHarbor (YC W11): "Azure Done Right"
+Pypy wants you - now's the time to start contributing to Pypy
+Oops: Android contains directly copied Java code, strengthening Oracle’s case
+Google search and search engine spam
+Why can't all "tech" journalism be like this?
+Oops: No copied Java code or weapons of mass destruction found in Android
+CSS background image hacks
+Why Is Eric Schmidt Stepping Down at Google?
+David E. Chen: Discovering the Heroku Vulnerability
+1000Memories in 60 seconds (video, YC S10)
+Fun with HTTP headers
+JavaScript ( (__ = $ + $)[+$] + ({} + $)[_/_] +({} + $)[_/_] )
+Python, the Web and Little Things on my Mind
+MRI shows meditation changes brain structure in 8 weeks
+Do It Yourself Masters in Financial Engineering
+Free Wordpress themes coming with a price
+Hans Reiser: former genius, convicted murderer and future mad scientist?
+How I almost killed Facebook
+ITerm 2
+20-line patch to Firefox 4 that makes startup on Windows 2x as fast
+Humans.txt, like robots.txt, but for humans.
+Always pay your web developers
+Life as a Second Class Citizen of the Web 
+Ask PG: Please revert the change to break up discussions in multiple pages?
+Delegate or die: the self-employed trap
+eBooks compiled from top StackOverflow topics/answers
+Why I Don’t Buy the Quora Hype
+Hacker Shows It Doesn’t Take $8 Million to Clone Qwiki
+Using Python generators for real work [pdf]
+Tim Cook Is Running Apple, but Not Imitating Steve Jobs
+How I Screwed Yasser Arafat out of $2mm (and lost $100mm in the process)
+Waking up at 5am, my nearly 1 year review
+Why 3D doesn't work and never will.
+Mythbusting: Why Firefox 4 won’t score 100 on Acid3
+How the iPhone mail app decides when to show you new mail
+Close Tab Behaviour in Google Chrome
+1 Damn Easy Way to Improve User Experience
+Introducing Amazon Simple Email Service
+Startup Suicide -- Rewriting the Code
+37Signals to retire OpenID for logins on May 1
+OAuth Will Murder Your Children
+Hacker News app for Android (with login, voting, and commenting)
+An USB plug that goes both ways
+Why I Wrote a Programmer's Text Editor
+"Nothing like this will be built again": a tour of a working nuclear reactor
+What if Visual Studio had Achievements?
+New in Gmail Labs: Unread message icon
+John's Phone: a minimalist cell phone
+How (not) to write Factorial in Java
+Why I don't care very much about tablets anymore
+Python 3.2 Released
+Show HN: Breakup Notifier
+Why nothing can go faster than the speed of light
+An Open Letter to Apple on the Readability App rejection
+The Boy Who Stole Half-Life 2
+Homeowner forecloses on Wells Fargo office, becomes folk hero
+Money Won’t Buy You Health Insurance
+TinyGrab abandons iOS because of new App Store rules
+Changes to my life as a result of just four weeks of daily meditation
+Redis at Disqus
+HelloFax (YC W11): Sign And Send Faxes From Your Browser, Without The Hassle
+You Owe it to Yourself to be Old-School
+Show HN: HackerBooks.com
+We Are the App Store
+Fabric Python with Cleaner API and Parallel Deployment
+Show HN: Remote Jobs (our answer to "Who Is Hiring Remote Workers?")
+Amount of profanity in git commit messages per programming language
+How We Made Github Fast (2009)
+Visualization: Movies Are Getting Worse
+How HackerNews ruined my morning
+What happens after Yahoo acquires you
+Solving The Hacker News Problem
+Rate my startup - Slowcop - measure your website's speed
+Buying VMWare Fusion: A lesson in how to drive customers away
+How to Sell your Company
+WordPress names their 3.1 release: Reinhardt
+What I Wish Someone Had Told Me About Startups 4 Years Ago
+Eth0 no more?
+Breakup Notifier Shut Down By Facebook
+Cappuccino 0.9
+JQuery Waypoints - execute a function whenever you scroll to an element
+Warn HN: How to accidentally, irreversibly nuke your Facebook account
+Why We Stick With PHP (and don't move to Ruby or Python) 
+Pattern: A web mining & natural language processing system for Python
+New MacBook Pro series
+Thunderbolt
+Calculus Revisited - a complete self-study calculus course from MIT OCW
+Apple releases dev preview of Mac OS X 10.7 Lion with AirDrop, FileVault
+Chrome Developer Tools: Back to Basics
+JQuery 1.5.1 released, includes full IE 9 support
+Redditors earning $100k+ a year, what are your secrets to your success?
+Google Forecloses on Content Farms with "Farmer" Algorithm Update
+Google rolls out algorithm change in the US
+Anonymous vs. HBGary: the aftermath
+The Colour Clock
+Jerry Seinfeld's Productivity Secret
+I'm a cargo cult programmer, help me
+Dear Google, I Have More Than 10,000 Contacts
+Neat Algorithms - Flocking
+You win, RIM (An open letter to RIM's developer relations)
+Why does Adobe Reader need so many updates?
+Crawl Bank Accounts with the Ghost of Wesabe
+The Unofficial Guide to Migrating Off of Google App Engine
+Why didn't the Romans have hot air balloons?
+IPhone 4 films final Discovery launch from 30,000 feet up. 
+Japan Airlines' CEO pays himself less than the pilots, takes the bus to work
+Free Kindle This November
+Life Without Photoshop
+Berkshire Hathaway Shareholder Letters 2010 [pdf]
+Super Mario Brothers GameBoy (and all GameBoy games) ported to HTML5
+Man with ALS writes patch for Gnome using morse code (with touching story)
+The joys of maintenance programming
+I Don't Want to be a Teacher Any More
+BitMate - BitTorrent For The Less Privileged
+This is what it's like for an innocent man to spend thirty years in jail
+Designers, how do we get you guys to contribute to open source projects?
+Beautiful Time-Lapse of Milky Way over Lake Tahoe
+Custora (YC W11) Helps Online Businesses Improve Customer Retention
+Joyent: 54+ hours of downtime
+Working at Microsoft – Day to Day Coding
+9 Eyes – Interesting photos from Google Street View
+2000 as Seen in 1910 (23 pics)
+When you want to quit because it's just not worth it
+How to Make Money in 6 Easy Steps
+RStudio,a new IDE for R
+Pictures of kittens for use as placeholders in your designs or code
+Linus Torvalds: Pearls before swine
+Wolfram Alpha doesn't "get it"
+What is the single most influential book every programmer should read?
+How much money can you make in the iOS App Store?
+Lists of must see TED-talks 
+70% of the Public Finds Piracy Socially Acceptable
+The Redis Manifesto
+The Bipolar Lisp Programmer
+Natalie Portman - Scientist
+Matt Blaze: How ACM and IEEE Shake Down Science
+Hiding Nobel prizes in plain sight
+How a 19-Year-Old Raised $5 Million to Revolutionize Search
+The Node Ahead: JavaScript leaps from browser into future
+ShoeFitr: The company Amazon must buy immediately
+Full Text RSS Feed: Get the whole feed and nothing but the feed
+A Week After Google Changes Algo, Mahalo Fires 10% of Staff
+Your IP. In JSON
+The mother of all Android malware has arrived
+Someone is stealing your life (1990)
+Google finally has a 404 page that isn't ugly
+Man upgrades Windows 1.0 to Windows 7 (video)
+Node.js Guide
+Slightly More Advanced Git techniques
+Microsoft Co-Founder Paul Allen Hits Out at Gates 
+With +1, Google Search Goes Truly Social — As Do Google Ads
+ +1’s: the right recommendations right when you want them—in your search results
+AIDS vaccine in final testing
+Pioneer Anomaly Solved By 1970s Computer Graphics Technique
+Confirmed: Samsung is not shipping keyloggers
+Ask HN: Should we agree that this account will submit all Who is Hiring posts?
+At work? Try this Hacker News homepage inspired by Node [SFW]
+How to damage your brand in one smooth shot - Way to GoDaddy
+Why GNU grep is fast
+Data.gov & 7 Other Sites to Shut Down After Budgets Cut
+Solarized - Color scheme for vim, mutt, terminal emulators
+Angry Nerds
+Collect HN: Aprils Fools
+Slice HD: you will hurt your fingers on your iPad
+How to Email Busy People
+The Rise of "Logical Punctuation".
+Creator of "Dirty Jobs" Mike Rowe testifies to Congress
+Indie iOS Devs Under Legal Fire For Offering In-App Purchases
+Rails 3 - Fully Loaded
+Gary Vaynerchuk: “99.5 Percent Of Social Media Experts Are Clowns” (TCTV)
+Mailgun (YC W11) Raises $1.1 Million For Its "Twilio For Email"
+CEO of Svpply: I have no idea what I'm doing
+Dropbox Lied to Users about Data Security, Complaint to FTC Alleges
+Mental Illness and Startups
+Lockitron (YC S09) Lets You Unlock Your Door With Your Phone
+Is it hard to build a web app that makes at least $1000 a month?
+Maybe Americans aren't dumb enough to keep buying houses?
+Very clever story telling using HTML and Javascript...
+Twitter Shifting More Code to JVM, Citing Performance and Encapsulation
+The Capacitive Button Cult Must Be Stopped
+Hover.com: we store & email passwords in plaintext for usability
+Google Loses Access to Twitter Stream, Suspends Realtime Search
+Question for PG/HN:  Where do you think we stand on your list of "ideas"?
+This is why memory fragmentation is bad
+Advanced Javascript tips and tricks
+MIT 6.006: Algorithms in Python
+Facebook blocks Google Chrome extension for exporting friends
+Cool notification messages with CSS3 & Jquery
+US claims all .com and .net websites are in its jurisdiction
+Twitter acquires BackType (YC S08)
+Clojure on Heroku
+Google to Retire Blogger & Picasa Brands in Google+ Push
+The Broken Promises of MRI/REE/YARV
+All NeXT Inc.'s Plant Lacks Is Orders (1990)
+Why I read Hacker News even though I understand very little of it
+Internet predictions from 1982
+Google+ is Awesome. Facebook Maimed, Twitter Mortally Wounded?
+My legitimate co.cc site was deleted from Google, what do I do?
+JQuery 1.6.2 syntax error? You may be the victim of SEO.
+Hack Hardware with inPulse (YC W11) - Fall intern
+Facebook's Three New Products
+MySpace, Skype announce partnership (2007)
+Why scientific programming does not compute
+Users of my iOS Game Teach Me a Lesson MIT Didn’t
+Fast-growing (2MM monthly uniques) YC S11 startup looking for 1st employee
+User testing in the wild: he has never used a computer
+Companies that make money by distributing misleading versions of VLC
+Judge Denies Apple Request To Stop Amazon From Using "App Store"
+Microsoft’s Android Shakedown
+Unannounced Facebook feature uncovered
+ITerm2 1.0 Released
+Why the #AskObama tweet was garbled on screen
+My Summer at an Indian Call Center
+A Walk in the Woods with Mark Zuckerberg
+XKCD's Randall Munroe on Google+ requiring your gender to be public
+Google+ can now hide your gender "in response to user feedback"
+Why I left Google. What happened to my book. What I work on at Facebook. 
+A lesson on the importance of encouraging your children with their projects
+Man counterhacks paypal phisher, deletes data, warns other victims via phone
+PuTTY 0.61 released
+Nginx doesn't suck at SSL after all
+Poll: How much do you make as a programmer?
+Old TechCrunch + really fast, clean, customizable layouts
+Linus Torvalds proposes a change to the Git commit object format
+Co-Founder Wanted - Mobile Commerce YC Startup with Paying Customers
+"Very bold or very dumb": data caps don't apply to ISP's own movie service
+Google: The Beginning
+The FBI Had No Warrant for the Raid on Instapaper, Pinboard, et al.
+Brubeck: A new Python web framework running on mongrel2
+The Growing Divide Between Silicon Valley And Unemployed America
+Aaronsw indicted for hacking MIT network to download millions of JSTOR docs
+ZeroCater seeking Foodie Paratroopers 
+Show HN: I made a Web-based Todo App - used: CSS3 3D transforms, Node.js, love
+Every programmer should read the source to abort() at some point in their life.
+Remove any Site From Google (even if you don't control it)
+Fake apple stores
+OS X Lion Now Available in the US Mac App Store
+John Siracusa's Mac OS X 10.7 Lion Review
+Tilt: Visualize your web page's DOM in 3D
+EBay Patents 10-Click Checkout
+Chosen: A javascript plug-in that makes long select boxes user-friendly.
+NASA's Successful Quantifying of Comedy Timing (By Penn Jillette and Teller)
+The Brilliance of Dwarf Fortress
+Google Deletes Last 7 Years Of User's Digital Life, Shrugs
+Explosion in central Oslo
+What everyone should know about the human eye
+On Succeeding Steve Jobs
+Android account passwords are stored on disk in plain text
+Intellectual Ventures on This American Life
+Apple MacBooks Can Be Hacked Through The Battery
+The Little Manual of API Design
+Our security auditor is an idiot. How do I give him the information he wants?
+Sony's Captcha. View source to see why they don't "get" security
+Infinite Mario in HTML5
+What Happened to the Future?
+The Acceleration of Addictiveness vs Willpower, Productivity, and Flow
+NASA finds water reservoir equivalent to 140 trillion times the world's oceans
+Emacs follow-mode
+Google Plus Deleting Accounts En Masse: No Clear Answers
+Radio Shack to start stocking Arduino, Other Goodies
+NoSQL is What?
+Octopress - A blogging framework for hackers
+I’ve been suspended from Google+
+Google Plus: Tagging automatically shares private photos
+When operating "at web scale", users often simply don't have "real names"
+Accidental Genius: How To Think
+A note to Google recruiters (and on Google hiring practices)
+A web designer with an attitude (he did his site while drunk)
+Twice the height of the Empire State - massive solar tower for AZ
+Who's your SSH buddy?
+WebMynd is doubling revenue every 3 months, and the team every 6. Join us.
+It Flies: Da Vinci's Dream Comes True
+Aaron Swartz v. United States
+Veteran developer Steve Lacey (Google, Microsoft) Killed in Auto Accident
+Guido van Rossum: Before Python
+50 Google +1s on sale at SEO shop for $9.99
+Monroe or Einstein?  Instant eyesight check.
+Poll: Do you use Google Reader on a daily basis?
+Andy Rutledge Redesigns NYTimes.com
+Accuracy takes power: one man's 3GHz quest to build a perfect SNES emulator
+Why are restaurant websites so awful? Because of restaurant culture.
+Jonathan's Card revealed as viral marketing campaign
+535 ways to reload the page with JavaScript
+Google rips Senate's online piracy bill: 'This is what is wrong with Washington'
+LLVM 3.0 Released
+Rand Fishkin: Inbound Marketing for Startups
+Ask HN: How many of you built a profitable startup while having a day job?
+Swiss Government: Downloading Movies and Music Will Stay Legal 
+This Site’s Domain is Stolen
+[Django] Python 3 port - all tests now pass on 2.7.2 and 3.2.2
+Rob "CmdrTaco" Malda's Resume.  Anyone interested?
+A primer on Bezier curves
+How to build a data mining web app?
+The Modern Java Ecosystem (for the Sinatra or web.py lover)
+Notch is no longer lead developer on Minecraft
+Moving from SVN to Git in 1,000 easy steps
+If Everyone Else is Such an Idiot, How Come You're Not Rich?
+What Powers Instagram: Hundreds of Instances, Dozens of Technologies
+Facebook buys Gowalla
+Paul Graham and not being as right as he could be in “The Age of the Essay”
+Indian Railways stations, trains and schedules database in JSON and SQL formats
+I too know the websites you visited
+Some Asians' college strategy: Don't check 'Asian'
+The raster tragedy at low resolution (1997)
+Firefox 11 Targeted for SPDY Support
+The Mature Programmer
+Superstitious users and the FreeBSD logo
+The secret history of the about:jwz url
+Facebook security hole allows viewing of private photos
+Why TechCrunch is boring, SAP is not, and the world has gone mad
+Instant CSS, JS, HTML or DOM documentation
+Don't Be A Free User
+Csg.js: Constructive Solid Geometry, with rotatable 3D models 
+The single most useful Emacs feature
+Tell HN: You said not to. So I quit my job and started. 5 mos later: OpenPhoto
+Sal Khan is MIT's 2012 Commencement speaker
+What is the single most influential book every programmer should read?
+Please Donate to the Internet Archive
+Mint.com turns 404 ad page into date ad for developer
+Thoughts on Python 3
+CNET Injecting Malware into Downloads
+Mythbusters experiment goes awry, sends cannonball through two houses
+Poll: How much did you earn from your stock options during exit?
+Good UX in the Wild: Dropbox's attention to detail on their download page
+You've Probably Read Enough
+What really happened aboard Air France 447
+The Unintended Effects of Driverless Cars
+What Eric Schmidt actually said
+17-year-old wins 100k for creating cancer-killing nanoparticle
+Apple Never Designed the iPad - They Undesigned it
+Announcing Amber.js
+Feds Mistakenly Shut Down Popular Blog For Over A Year
+Knuth and the Unix Way
+A single line to 3 cashiers is ~3x faster than a separate line for each cashier
+Why we ditched PayPal for Stripe
+Snake game in a data: URI 
+JQuery plugins site accidentally deleted - last backup one year old.
+The Crunchpad is proof of obviousness in iPad design
+We've invented waterfall
+Apple using patents to undermine open standards again
+HP to Contribute webOS to Open Source
+At the End of a Procrastinated Day
+GitHub's Unicorn Setup
+Over 40% of cancers due to lifestyle, says review
+Motorola wins patent suit against Apple in Germany, iPhone/iPad to be banned
+The diagnosis
+Obama Announces $2B Fund for Startups
+MPAA Boss: If The Chinese Censor The Internet, Why Can't The US?
+Universal Censors Megaupload Song, Gets Branded a “Rogue Label”
+Apple Made A Deal With The Devil (No, Worse: A Patent Troll)
+Two Congressional Staffers Who Helped Write SOPA Become Entertainment Lobbyists
+Louis CK self-produces, self-publishes content on his webpage
+Getting a job in software development: A Reddit discussion round-up
+I Know What You Downloaded on BitTorrent…
+Why apps are not the future
+TextMate 2 (Public) Alpha
+Louis C.K. "I've never seen a check from a [TV] comedy special"
+The Humble Indie Bundle #4 (pay what you want and help charity)
+Why you can't hire
+A Case Against Using CoffeeScript
+From zero to Go: launching on the Google homepage in 24 hours
+Louis C.K. experiment results: over $500,000 in 4 days
+The real reason you can't hire developers....
+Nvidia Opens CUDA Platform, Releases Compiler Source Code
+Scott Hanselman's 2011 Ultimate Developer and Power Users Tool List for Windows
+New Blender 3D with Motion Tracking, new rendering engine, dynamic paint
+Job placement program for top students in Stanford's online AI class
+Trolls
+Bug Prediction at Google
+Sergey Brin, et al. to U.S. Government: Do Not Emulate These Oppressive Nations
+Google Awarded Driverless Vehicle Patent
+Microsoft decides to automatically update Internet Explorer for everyone
+I'm starting to think LEGO is evil
+The nightmarish SOPA hearings
+Linux flavors and derivatives tree
+Horseshit - Joshua Topolsky responds to MG & Gruber 
+Report: Iran Hacked, Hijacked U.S. Drone
+An Open Letter From Internet Engineers to the U.S. Congress  
+Design is Horseshit
+In Memoriam: Christopher Hitchens, 1949–2011
+How Super Mario Bros. 3 was made
+Famous Last Words by Bosses I've Had
+In case SOPA passes: IP addresses of popular websites 
+POSIX close(2) is broken
+History of version control - 10 astonishments
+Google: Let it snow
+Tips for Remote Unix Work (SSH, screen, and VNC)
+Notch live coding for Ludum dare 22
+The Orbit of the Moon around the Sun is Convex
+YouTube Says Universal Had No ‘Right’ to Take Down Megaupload Video
+Show HN: My Zappos/Twilio hackathon entry 
+I'm turning 30 and I've produced no amazing art.
+Why have CPUs been limited in frequency to around 3.5Ghz for so many years?
+The switch: Python to Node.js
+Reddit admin: "If SOPA passes it would almost certainly mean the end of reddit"
+Whitehouse.gov petition to veto SOPA
+Why is one loop slower than 2 in C?
+Sinatra::Synchrony - Evented, fast, concurrent Ruby web apps with no callbacks
+SOPA creator received half a million dollars from the TV/Film/Music lobby
+Where's Waldo?
+N. Korean leader Kim Jong Il dies
+MITx positions to offer certification for completing courses online
+Why is Windows so slow?
+The Bomb That Changed My Life
+Dear Internet: It's no Longer OK Not to Know How Congress Works
+An Indian Inventor Disrupts The Period Industry
+How to get hired (or, 'The silly story of interviewing in the valley')
+CoffeeScript is not a language worth learning
+Unfortunate Python
+Rails 3.2 RC1: Faster dev mode & routing, explain queries, tagged logger, store
+Ask HN: I really need your help (resolved)
+The Secret History of Kim Jung Il -- written by one of his high school teachers
+Desingineer – the mythical person every startup is looking for
+Show HN: I Created the Inverse of Angry Birds
+Mozilla and Google Sign New Agreement for Default Search in Firefox
+Dropping a Magnet Through a Copper Pipe
+63% Prefer a Dark Themed Text Editor
+Good news: Mozilla fixed their damn browser
+Sony sued over PSN "can't sue us" clause
+My Ultimate Developer and Power Users Tool List for Mac OS X
+ISO C is increasingly moronic
+All Programmers Are Self-Taught
+Facebook machine learning technology improves; Redditors alaramed.
+Hungry Academy - get paid to learn Ruby
+Jurors Need to Know That They Can Say No
+John Resig: JavaScript as a First Language
+Bingo Card Creator (etc) Year In Review 2011
+Smoke Screening: Journalist tests TSA
+Why We Haven’t Met Any Aliens
+Backbone.js Fundamentals
+GoDaddy supports SOPA, redditor proposes "Move your Domain Day"
+Here is Godaddy’s statement in support of SOPA
+GoDaddy's SOPA Support Sparks Calls for Boycotts and Domain Transfers
+Louis CK's self distributed special up to 1MM revenue in 12 days
+A Step By Step Guide to Transfer Domains Out Of GoDaddy
+Paul Graham: SOPA Supporting Companies No Longer Allowed At YC Demo Day
+Killing the Internet to save Hollywood
+Official list of SOPA supporters
+GoDaddy Faces boycott over SOPA support
+Cheezburger Dumping GoDaddy over SOPA
+Namecheap.com: We say no to SOPA
+StackOverflow also planning to switch from GoDaddy due to SOPA concerns.
+List of YC companies that use GoDaddy
+"Another World" (game) Code Review
+GoDaddy is default registrar for Google Apps Domains
+Go Daddy No Longer Supports SOPA
+Elon Musk says he will put millions of people on Mars
+Redditors pledging to donate thousands to Wikimedia if they dump GoDaddy
+The Only Way to Stop SOPA
+All Hacker Monthly issues free for next ~24 hours
+GoDaddy is scrambling to do damage control
+Super Meat Boy leaves database wide open
+John Carmack on the importance of Static Code Analysis
+Wikipedia will be leaving GoDaddy
+GoDaddy has not withdrawn its official congressional support for SOPA 
+Pledge to cancel your Comcast in support of SOPA
+How to Learn to Write iOS Apps
+While we are focusing on SOPA, we are being distracted from the Protect IP Act
+HTC's delays in releasing Linux source code are unacceptable
+Thanks HN for the Christmas colors and Merry Christmas to you, too
+We and Mozilla are working together to make the web awesome
+Chrome Engineer: Firefox Is A Partner, Not A Competitor
+GoDaddy loses 72,354 domains this week alone
+Christmas tree made out of form elements 
+Decades later, a Cold War secret revealed
+The Dumbest Idea In The World: Maximizing Shareholder Value
+Open Letter to sites with annoying interfaces
+The legacy of Srinivasa Ramanujan
+My husband is a programmer; I have no idea what that means.
+Why (and how) we've switched away from Google Maps
+Time to end the war on drugs
+Is Godaddy delaying domain transfer requests?
+Update on GoDaddy Transfer Issues
+GoDaddy: A glimpse of the Internet under SOPA
+Show HN: Redis/ruby-based realtime event-tracking
+December 29th is Dump GoDaddy Day
+Why Aren't Other SOPA Supporters Being Punished Like GoDaddy?
+Ask HN: Best book you read in 2011
+Avenger controller company pisses off gaming community with bad customer support
+Practical Garbage Collection - Part 1: Introduction
+'TSA Arrests Me for Using the Fourth Amendment as a Weapon'
+Namecheap to Donate $1 to EFF for Every Domain Transfer on December 29th
+What future space combat would really look like
+Adventures in Aeron Chair Arbitrage
+Facebook deleted their Python SDK repository without warning
+After 7.5 years, Firefox finally adds line numbers to view-source:
+I Think You're Fat
+My uncle's factorization algorithms
+6 month read-through/discussion of Gödel, Escher, Bach starting 1/17 on Reddit
+Google takes down profile pic because someone was flipping the bird
+A man, a mop, a year, and an app
+Stanford Free Classes – A review from a Stanford Student
+Dot-dash-diss: The gentleman hacker's 1903 lulz
+Salman Khan of Khan Academy AMA on reddit
+The Coming War on General Purpose Computation 
+3.3 million e-mails between the most powerful men are about to be released.
+Show HN: We just launched our MVP, a new RSS Reader
+Cracking WPA in 10 hours or less
+Scientists' proposed calendar synchronizes dates with days
+Stop externalising your life
+Valve's GDC Talk: Porting Source to Linux [pdf]
+Facebook Home
+Roger Ebert dies at 70 after battle with cancer
+Why Rackspace Is Suing The Most Notorious Patent Troll In America
+The new sandbox: open-source and self-hosted
+Apple's iMessage encryption trips up feds' surveillance
+Learn Vimscript the Hard Way
+Association between muscular strength and mortality in men (2008) [pdf]
+Media Queries are a Hack
+Facebook Home destroys any notion of privacy
+Are Bitcoins The Future?
+The Story Of A Failed Startup And A Founder Driven To Suicide
+URLs are for People, not Computers
+New GitHub Pages domain: github.io
+Something is burning in the server room; how can I quickly identify what it is?
+Introduction to x64 Assembly
+In Search of the Cookie Dough Tree
+Nobody Knows That I Use These Apps
+Firefox Nightly Gets New Baseline JIT Compiler
+Extracting Audio from Pictures of Gramophone Recordings
+Dell/Alienware release Ubuntu gaming desktop
+My Code made it to a Hollywood Movie
+French homeland intelligence threatens a sysop into deleting a Wikipedia Article
+Don't use Linksys routers
+Experience the Apollo 11 Lunar Landing
+What can I do for Mozilla
+Google Paid This Man $100 Million
+How I Busted a Thief Who Tried to Sell My Camera on Craigslist 
+Why does this png display differently in Chrome/Firefox than in Safari/IE?
+Donating my Xbox
+Our tiny jQuery/Bootstrap rich text editor is now open-source
+Lessig: Why Washington is corrupt
+Geocities Bootstrap Theme
+Don't Copy-Paste from Website to Terminal
+GoPy – Extend CPython by writing Go
+How a banner ad for H&R Block appeared on Apple.com without Apple’s OK
+Wikileaks release "PlusD": Database of 1.7 million diplomatic cables
+Taping of Farm Cruelty Is Becoming the Crime
+Ask HN: What's the best technical talk you've heard?
+Shodan: The scariest search engine on the Internet
+From Selling Scoops of Ice Cream to Founding ZeroCater
+Disney have stolen my artwork
+Hoodie: very fast web app development
+Realtime Bitcoin Stats
+The Internet Explorer 6 Countdown
+Top Reasons I like Postgres Over SQL Server
+How to share your data effectively
+Firefox 23 will block non-SSL content on SSL pages by default
+New Persona Beta: Millions of Users Ready to Log In using Any Browser
+Dear YC companies, I responded. You could do the same.
+Google Fiber’s Next Stop: Austin, Texas
+AppGratis pulled from the App Store. Here’s the full story
+Linode NextGen: RAM Upgrade
+Teach Yourself Programming in Ten Years (2001)
+XKCD: Time
+AT&T Pretends It, Too, Will Build A 1 Gigabit Network 
+How can we get Google Support?
+Lulu: Sexist gossip about men you know, anonymously, without their permission.
+Mendeley users revolt against Elsevier takeover
+Csscss: a CSS redundancy analyzer that analyzes redundancy
+Bitcoin falls from $266
+Hummingbird – A fresh take on music notation
+IRS claims it can read your e-mail without a warrant
+The Tyranny of Taxi Medallions
+What's Tylenol Doing to Our Minds?
+Ruby is too slow for programming competitions
+VSRE: very short reply expected (netiquette)
+In India, 'no frills' hospitals offer $800 heart surgery
+The Clown Car Technique for Responsive Images
+Writing device drivers in Linux: A brief tutorial 
+Expunging Google
+What Broke My Father's Heart
+“Working Too Hard And Not Getting Anywhere”
+Geeksphone's Firefox OS smartphones go on sale tomorrow
+Why developers are leaving the Facebook platform
+Sleep: Everything You Need to Know
+Connecting an iPad retina LCD to a PC
+Papers, Please: A Dystopian Document Thriller
+Grad Student Who Took Down Reinhart and Rogoff Explains Why They're Wrong
+Dumped by Google
+Netflix now bigger than HBO
+Tearable Cloth Simulation in JavaScript
+The Power Of Silence: Why The SimCity Story Went Away
+SpaceX Grasshopper Flies High
+“Right click and save as” needs to go away
+Postgres on the GPU
+BitTorrent’s Secure Dropbox Alternative Goes Public
+TraceGL: JavaScript code flow visualisation in WebGL
+Is It Journalism, or Just a Repackaged Press Release? Here's a Tool to Help
+My First Year in the App Store
+Coding, Fast and Slow: Developers and the Psychology of Overconfidence
+The W3C's plan for DRM in HTML5 is a betrayal for all web users
+The AI Systems of "Left 4 Dead" [pdf]
+The Drone that Killed my Grandson
+Obama wins back the right to indefinitely detain under NDAA
+Trinity College experiment succeeds after 69 years
+‘America has no functioning democracy at this moment’ – Jimmy Carter on NSA
+Show HN: Floobits – Remote pair programming done right
+American Summer: Before Air-Conditioning (1998)
+Twilio is erroneously over-billing and suspending accounts
+Wine 1.6 Released With 10,000 Changes
+MIT Moves to Intervene in Release of Aaron Swartz’s Secret Service File
+Email service used by Snowden shuts down, warns against using US-based companies
+NSA loophole allows warrantless search for US citizens' emails and phone calls
+Kids can't use computers, and why it should worry you
+Hex, Lies and Startups
+Obama to release FISA court opinion that ruled NSA surveillance unconstitutional
+Panopticlick – How Unique, and Trackable, Is Your Browser?
+Meta (YC S13), The Crazy AR Glasses That Aim To Do What Google Glass Can’t
+How I Created the Iconic iPhone Sound
+The president is wrong: The NSA debate wouldn’t have happened without Snowden
+Troll-Killing Patent Reform One Step Closer
+Mars water surprise in Curiosity rover soil samples
+Google Hangouts/GTalk glitch sends chats to wrong recipients
+Git concepts simplified
+The Future of AngularJSese sites to get the word out
+So I’m the guy who sent the t-shirt out as a thank you
+After 180 Websites, I’m Ready to Start the Rest of My Life as a Coder
+W3C OKs Adding DRM into HTML5 Spec
+The Hacker News Generation (Afraid of Hard Work)
+Ocean acidification due to carbon emissions is at highest for 300m years
+Stanford researchers to open source model they say has nailed sentiment analysis
+Center of the universe
+Mozilla bug 923590: Pledge never to implement HTML5 DRM
+MongoDB Raises $150 Million at $1.2 Billion Valuation
+Preventing 'layout thrashing'
+I emailed the CEO of T-Mobile and he killed my contract
+How to Corrupt an SQLite Database File
+Ethiopian Binary Math
+A "Hacker's" Guide to the Bay Area
+Interview of Glenn Greenwald [video]
+Open Source made me the man I am
+How to get your first 10 customers
+Time to hand over the reins before Capistrano costs me my youth?
+Bedrock Linux
+FastMail’s servers are in the US – what this means for you
+Javascript apps can be fully crawlable
+NY Attorney General hits AirBnB with subpoena for user data
+FBI struggles to seize 600,000 Bitcoins from alleged Silk Road founder
+Why the Tech Industry Needs to Deal With Its Ageism Problem
+The Georgia Tech Online Master of Science in CS is now accepting applications
+A Big List of D3 Examples
+T-Mobile to offer free unlimited international data, texts
+Should we stop believing Malcolm Gladwell?
+We paid $634 million for the Obamacare sites and all we got was this lousy 404
+Research Finds Outright Grants of Cash are an Effective Form of Aid to the Poor
+Reverse Engineering a D-Link Backdoor
+The Workman Keyboard Layout
+TSA loudspeakers threaten travelers with arrest for joking about security
+Zoomquilt
+T-Mobile Rocks
+Edward Snowden wins Sam Adams award [video]
+Redecentralize: Quietly, some geeks are decentralizing the net again
+Apple Says New OS X ‘Mavericks’ Will Be Offered for Free
+How to Tango with Django: A Python Django Tutorial
+Russian programmer fights Goldman Sachs and wins one round
